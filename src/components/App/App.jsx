@@ -10,7 +10,7 @@ const App = () => {
       </ul>
       <p>Hello {username}</p>
       <h1>Hello Tiny your test {username1}</h1>
-      <img src={Urlimg} alt="cat" />
+      <img src={Urlimg} alt="cat" width={250} />
     </div>
   );
 };
